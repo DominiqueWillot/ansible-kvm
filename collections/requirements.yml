@@ -1,0 +1,4 @@
+---
+collections:
+# for vm deployment automation
+- community.libvirt
